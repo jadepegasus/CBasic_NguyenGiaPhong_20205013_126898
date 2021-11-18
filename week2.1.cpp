@@ -1,3 +1,10 @@
+/*
+•Implement the function my_strcat:
+–Input –two strings, s1and s2
+–Output –a pointer to a dynamically allocated concatenation
+–For example: The concatenation of “hello_” and “world!” is the string “hello_world!” 
+*/
+•Test your function
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
