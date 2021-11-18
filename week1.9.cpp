@@ -1,3 +1,6 @@
+/*
+•Redo the exercise F1 but the program will read and write one character line at a time.
+*/
 #include <stdio.h>
 enum {SUCCESS, FAIL,MAX_LEN = 81};
 void LineReadWrite(FILE *fin, FILE *fout){
