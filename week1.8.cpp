@@ -1,3 +1,8 @@
+/*
+•Write a program to read sentences from a specified file one character at a time. 
+•Each capital letter is converted into a lower-case letter, and each lower-case letter is converted into a capital letter. The new sentence is then written into another file.
+•Note that you must output numbers, the signs as they are.
+*/
 #include <stdio.h>
 #include<ctype.h>
 enum {SUCCESS, FAIL};
