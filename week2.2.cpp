@@ -1,3 +1,15 @@
+/*
+•Given two following structure:
+typedefstructpoint
+{
+  doublex;doubley;
+} point_t;
+typedefstructcircle
+{
+  point_t center;doubleradius;
+} circle_t;
+•Write a function is_in_circle which returns 1 if a point p est covered by circle c. Test this function by a program.
+  */
 #include<stdio.h>
 typedef struct point{
 double x;
