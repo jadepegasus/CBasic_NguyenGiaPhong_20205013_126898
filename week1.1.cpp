@@ -1,3 +1,4 @@
+/* input and output a array */
 #include<stdio.h>
 int Dk(int a[],int i){
 	int j;
