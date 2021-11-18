@@ -1,3 +1,9 @@
+/*
+Write a program to read two or more lines into an array of character strings one by one from a specified file and find the length of each line. 
+You must write the length of each line and character string in the file.
+For example, one line in an input fileThe quick brown fox jumps over the lazy dog.
+should be output as follows.44 The quick brown fox jumps over the lazy dog
+*/
 #include <stdio.h>
 enum {SUCCESS, FAIL,MAX_LEN=81};
 void ReadWrite(FILE *fin, FILE *fout){
