@@ -1,3 +1,7 @@
+/*
+Write a function that accepts a double parameter and returns its integer and fraction parts.
+Write a program that accepts a number from the user and prints out its integer and fraction parts, using this function.
+*/
 #include<stdio.h>
 void split(double num, int *int_part,double *frac_part){
 	*int_part = (int)num;
