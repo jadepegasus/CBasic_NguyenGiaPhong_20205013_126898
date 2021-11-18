@@ -1,3 +1,4 @@
+/* Write a program that gets an input line from the user (ends with ‘\n’) and displays the number of times each letter appears in it.*/
 #include<stdio.h>
 #define ALPHABET_LEN 26
 int main(){
