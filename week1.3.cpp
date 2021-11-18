@@ -1,3 +1,7 @@
+/*
+•Implement a function that accepts two integer arrays and returns 1 if they are equal, 0 otherwise
+•Write a program that accepts two arrays of integers from the user and checks for equality
+*/
 #include<stdio.h>
 int Sosanh(int a[],int b[],int n,int m){
 	if(n!= m) return 0;
