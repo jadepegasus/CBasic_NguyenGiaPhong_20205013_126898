@@ -1,3 +1,7 @@
+/*
+•Write a program that accepts two numbers as command line arguments, representing a rectangle’s height and width (as floating-point numbers). 
+•The program should display the rectangle’s area and perimeter
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(int argc, char* argv[]){
