@@ -1,3 +1,7 @@
+/*
+•Create a text file name lab1.txt with the content as you want.
+•Write a program to read from a text file one character at a time, then write it to a new file with the name lab1w.txt
+*/
 #include <stdio.h>
 enum {SUCCESS, FAIL};
 void CharReadWrite(FILE *fin, FILE *fout){
