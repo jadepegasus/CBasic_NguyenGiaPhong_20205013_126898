@@ -6,7 +6,7 @@ int main(){
 	int count[ALPHABET_LEN] = {0};
 	int count1[ALPHABET_LEN] = {0};
 	int i;
-	printf("Nhap sau cua ban:");
+	printf("Nhap xau cua ban:");
 	c=getchar();
 	while(c!='\n' && c>=0){
 		if(c <= 'z'  &&  c >= 'a')
