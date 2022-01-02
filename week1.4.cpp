@@ -1,8 +1,13 @@
 /*
-•write a function that: –gets a string and two chars–the functions scans the string and replaces every occurrence of the first char with the second one. 
-•write a program to test the above function–the program should read  a string from the user (no spaces) and two characters,
-then call the function with the input, and print the result.
-•example–input: “papa”, ‘p’, ‘m’–output: “mama”
+•write a function that: 
+	–gets a string and two chars
+	–the functions scans the string and replaces every occurrence of the first char with the second one. 
+•write a program to test the above function
+   	–the program should read  a string from the user (no spaces) and two characters,
+	 then call the function with the input, and print the result.
+•example
+	–input: “papa”, ‘p’, ‘m’
+	–output: “mama”
 */
 #include<stdio.h>
 void thaythe(char arr[],char a,char b){
